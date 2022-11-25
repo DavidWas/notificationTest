@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "809506071228",
+    "firebase_url": "https://stilleralarmmobileapp.firebaseio.com",
+    "project_id": "stilleralarmmobileapp",
+    "storage_bucket": "stilleralarmmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809506071228:android:6fb592799ecd1da44c66b9",
+        "android_client_info": {
+          "package_name": "com.stilleralarmmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809506071228-5u0s2bj3aulcpv6uujr2bisnl7bcgujt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWWPTqupyiOS7pZf7HF2ORJbvIVGBAPfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809506071228-5u0s2bj3aulcpv6uujr2bisnl7bcgujt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809506071228-qj0frt9t6qopboq56b7ibf8ict4clj7o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stilleralarmmobileapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
